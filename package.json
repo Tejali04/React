@@ -12,9 +12,9 @@
   "author": "puneet kankar",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.1",
     "express": "^4.17.1",
-    "mongoose": "^4.10.2",
-    "morgan": "^1.8.2"
+    "mongoose": "^4.13.21",
+    "morgan": "^1.10.0"
   }
 }
